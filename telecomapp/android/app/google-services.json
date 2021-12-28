@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "300114353384",
+    "firebase_url": "https://telecom-app-cb839-default-rtdb.firebaseio.com",
+    "project_id": "telecom-app-cb839",
+    "storage_bucket": "telecom-app-cb839.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300114353384:android:6ca8828bf1b996e3063d5d",
+        "android_client_info": {
+          "package_name": "com.telecomacesse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300114353384-b1jtbq8f7ludptctedummm29a9ulgg94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK4N_4_kR-DsyiDnNymEVjSrpXH9mTK1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300114353384-b1jtbq8f7ludptctedummm29a9ulgg94.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "300114353384-vmvasoh9hmqurb5t2j3k3po0bgb0kgbm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.telecomacesse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300114353384:android:b710f4e1468a82f2063d5d",
+        "android_client_info": {
+          "package_name": "com.telecomapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300114353384-3fbk60p2u5p7ddivgl8tdsjo20m2kpm4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.telecomapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "300114353384-b1jtbq8f7ludptctedummm29a9ulgg94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK4N_4_kR-DsyiDnNymEVjSrpXH9mTK1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300114353384-b1jtbq8f7ludptctedummm29a9ulgg94.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "300114353384-vmvasoh9hmqurb5t2j3k3po0bgb0kgbm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.telecomacesse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
